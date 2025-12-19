@@ -19,7 +19,6 @@ export default function App() {
     customers: {}
   });
 
-  // ✅ RESET FOR RETAKE
   const resetAssessment = () => {
     setStep(0);
     setPersonalData({});
